@@ -1,0 +1,18 @@
+name: workshops
+channels:
+    - conda-forge
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy 
+  - biopython 
+  - scikit-bio
+  - networkx
+  - graphviz
+  - python-graphviz
+  - altair
+  - vega
+  - scikit-learn
+- umap-learn
