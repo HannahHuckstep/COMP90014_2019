@@ -15,4 +15,4 @@ dependencies:
   - altair
   - vega
   - scikit-learn
-- umap-learn
+  - umap-learn
