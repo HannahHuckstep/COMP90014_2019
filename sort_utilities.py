@@ -47,12 +47,13 @@ def random_list(N):
     return items
 
 def time_sort(sort_function, input_list):
-    """
+    '''
     Time a sort function on a given input list using timeit.
     Makes use of a global variable unsorted_list, which will be overwritten.
     Assumes we are being called from an IPython/Jupyter context and adds the
     IPython namespace to the local namespace.
-    """
+    '''
     num_runs = 1000
+    print(sort_function)
+    print(input_list)
     return timeit("sort_function(input_list)", number=num_runs)/num_runs
-
