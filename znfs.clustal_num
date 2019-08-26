@@ -1,0 +1,155 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       ------------------------------------------------------------	0
+SP1       MSDQDHSMDEMTAVVKI---------------------------------------EKGV	21
+SP4       MSDQKKEEEEEAAAAAAMATEGGKTSEPENNNKKPKTSGSQDSQPSPLALLAATCSKIGT	60
+                                                                      
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       ------------------------------------------------------------	0
+SP1       GGNNGGNGNGGGAFSQAR----SSSTGSSSSTGGGGQGANGWQIISSSSGATPTSKEQ--	75
+SP4       PGENQATGQQQIIIDPSQGLVQLQNQPQQLELVTTQLAGNAWQLVASTPPASKENNVSQP	120
+                                                                      
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       ------------------------------------------------------------	0
+SP1       ---SGSSTNGSNGSESSKNRTVSGGQYVVAAAPNLQNQQVLTGLPGVMPNIQYQVIPQFQ	132
+SP4       ASSSSSSSSSNNGSAS-PTKTKSGNSS-------TPGQFQVIQVQNPSGSVQYQVIPQLQ	172
+                                                                      
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       ------------------------------------------------------------	0
+SP1       TVDGQQLQFAATGAQVQQDGSGQIQIIPGANQQIIT---NRGSGGNIIAAMPNLLQQAVP	189
+SP4       TVEGQQIQINPTSSSSLQDLQGQIQLISAGNNQAILTAANRTASGNILAQ--NLANQTVP	230
+                                                                      
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       -----------MATSLLGEEP-RLGSTPLAMLA------ATCN--KIGSPS--PSPSSLS	38
+SP1       LQGL--------ANNVLSGQTQYVTNVPVALNGNITLLPVNSVSAATLTPS--SQAVTIS	239
+SP4       VQIRPGVSIPLQLQTLPGTQAQVVTTLPINIGGVTLALPVINNVAAGGGTGQVGQPAATA	290
+                                                                      
+
+YY1       ------------------------------------------------------------	0
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       DSSSSFGKGFHPWKRS------------SSSSSASCNVVGSSLSSFGVSGASRNGGSSSA	86
+SP1       SSG-SQESGSQPVTSGT-TISSASLVSSQASSSSFFTNANS----Y--------------	279
+SP4       DSG-T-SNGNQLVSTPTNTTTSASTMPESPSSSTTCTTTAS----T--------------	330
+                                                                      
+
+YY1       ------------MASGDTL----------YIATDGSEMPAEIVELHEIEVETIPVETIET	38
+KLF1      ------------------------------------------------------------	0
+KLF3      ------------------------------------------------------------	0
+KLF7      ------------------------------------------------------------	0
+SP8       AAAAAAAAAAAAALVSDSFSCGGSPGSSAFSLTSSSAAAAA--------AAAAAAAS--S	136
+SP1       -----------ST-----TTTTSNMGIMNFTTS-GSSGTNS--------QGQTPQRV--S	312
+SP4       -----------SLTSSDTLVSSADTGQYASTSASSSERTIE--------ESQTPAAT--E	369
+                                                                      
+
+YY1       TVVGEEE-EEDDDDEDGGGGDHGG-GGGHGHAGHHHHHHHHHHHPPMIALQPLVTDDPTQ	96
+KLF1      ------------------------------------------------------------	0
+KLF3      ----------------------------------------------MLMFDPV----PVK	10
+KLF7      ------------------------------------------------------------	0
+SP8       SPFANDYSVFQAPGVSGGSGGGGGGGGGGSSA----HSQDGSH-------QPVFISKV--	183
+SP1       GLQGSDALNIQQNQTSGGSLQA-----GQQKE----GEQNQQTQQQQILIQPQLVQG---	360
+SP4       ----SEA------QSSSQLQPN-----GMQNA----QDQSNSLQQVQIVGQPILQQIQIQ	410
+                                                                      
+
+YY1       VHHHQEV--ILVQTREEVV-----GG-------DDSDGLRAEDGFEDQI---------LI	133
+KLF1      ---MATAETALPSI----STLTALGP-FPDTQDDFLKWWRSEEAQDMGPGPPDPTEPPLH	52
+KLF3      QEAMDPVSVSYPSNYMESMKPNKYGV-IYSTP-LPEKFFQTPEGLSHGIQ----------	58
+KLF7      ---MDVL-ASYS-IFQELQLVHDTGY-FSALPSLEETWQQTCLELERYLQ----------	44
+SP8       HTSVDGLQGIYPR-----VG------MAHPYES----WFKPSH-------------PGLG	215
+SP1       GQALQALQAAPLSG----QTFTTQAISQETLQNLQLQAVPNSG-------------PIII	403
+SP4       QPQQQIIQAIPPQSFQLQSGQTIQTIQQQPLQNVQLQAVN-PT-------------QVLI	456
+                                                                      
+
+YY1       ---------PVPAPAGGDDDYIEQTLVTVAAAGKSGGGGSSSSGG-----GRVKKG----	175
+KLF1      VKSEDQPGEEEDDERGAD-ATWDLDLLLTNFSGPEPGGAPQTCALAPSE-----------	100
+KLF3      ----MEPV----------------DLTVNKRSSPPSAGNSPSSLKFPSSHRRASPGLSMP	98
+KLF7      ----TEPR----------------RISE-------TFGEDLDC--------------FLH	63
+SP8       AA-------GEVGSAGAS-SWWDVGAGWIDVQNPNSAAALP---G------------SLH	252
+SP1       RT-------PTVGPNGQV-SWQTLQLQNLQVQNPQA-QTIT---LAPM------QGVSLG	445
+SP4       RA-------PTLTPSGQI-SWQTVQVQNIQSLSNLQVQNAG---LS--------QQLTIT	497
+                                                                      
+
+YY1       GGKKSG---------KKSYL-------SGGAGAAG-----GGGADPGNKKWEQKQVQIK-	213
+KLF1      ---ASGAQYPPPPETLGAYA--------GGPGLVAGLLG-----SEDHSGWVRPALRARA	144
+KLF3      SSSPPIKKYSPPSPGVQPFGVPLSMPP-----VMAAALSRHGIRSPGILPVIQPVVVQPV	153
+KLF7      ASPPPCIEE--SFRRLDPLLLPVEAAICEKSSAVDILLSRDKLLSETCLS-LQPASSSLD	120
+SP8       PAA---------------------------------------------------------	255
+SP1       QT-SS------SNTTLTPIASAASI--------------------------------PAG	466
+SP4       PVSSS------GGTTLAQIA-PVAV--------------------------------AGA	518
+                                                                      
+
+YY1       -----------------------------------TLEGEFSV---------------TM	223
+KLF1      PDAFVGPALAPAPAPEPKALALQPVYPGPGAGSS---GGYFPR--TGLSVPAASGAPYGL	199
+KLF3      PFMY--------T-----SHLQQPLMVSL--------SEEMENSSSSMQVPV--------	184
+KLF7      SYTAVNQAQLNAV-----TSLTPPSSPEL--------SRHLVKTSQTL------------	155
+SP8       --------------------------GGLQTSLHSPLGGYNSDYSGLSHSAFSSGASSHL	289
+SP1       T-VTVNAAQ-------------LSSMPGLQTINLSALGTSGIQVH-----P-IQGLPLAI	506
+SP4       P-ITLNTAQ-------------LASVPNLQTVSVANLGAAGVQVQ---------GVPVTI	555
+                                                                      
+
+YY1       WSSD--------EKKDIDHETVVEEQIIGENSPPDYSEYMTGKKLPPGGIPGI--DLSDP	273
+KLF1      LSGYPAMYPAPQYQGHFQLFRGLQGPAPGPATSPSFLSCLGPGT-----VGTGL-G----	249
+KLF3      IESY----EKPISQKKIKIEPGI-----EPQRTDYYPEEMSPPLMNS--VSPPQAL----	229
+KLF7      -SAV----DGTVTLKLVAKKA-----------------ALSSVKVGG--VATAAAA----	187
+SP8       LSPA----------GQH-LMDGFKPVLPGSYP------DSAPSPLAGAGGSMLSAGPSA-	331
+SP1       ANAP----------GDHGAQLGLHG----A---------------GGDGIHDDTA-----	532
+SP4       TSVA----------GQQQGQDGVKV----QQA------TIAPVTVAVGGIANATIGAVSP	595
+           .                                                          
+
+YY1       KQLAEFAR-----MKPRKIKEDDAPRTIACPHKGCTKMFRDNSAMRKHLHTHGPRVHVC-	327
+KLF1      -------GTAEDPGV------------IAETAPSKRG--------RRSWARKRQAAHTCA	282
+KLF3      -------LQENHPSV------------IVQPGK-----RPLPV--ESPDTQRKRRIHRCD	263
+KLF7      -------VTA---AG------------AVKSGQSDSDQGGLG---AEACPENKKRVHRCQ	222
+SP8       -----------PLGGSPRSSARRYSGRATCDCPNCQEAERLGP--AG-ASLRRKGLHSCH	377
+SP1       ------GGEEGENSPDAQPQAGRRTRREACTCPYCKDSEGRGS--GD---PGKKKQHICH	581
+SP4       DQLTQVHLQQGQQTSDQEVQPGKRLRRVACSCPNCREGEGRGS--NE---PGKKKQHICH	650
+                                      .                           * * 
+
+YY1       -AECGKAFVESSKLKRHQLVHTGEKPFQCTFEGCGKRFSLDFNLRTHVRIHTGDRPYVCP	386
+KLF1      HPGCGKSYTKSSHLKAHLRTHTGEKPYACTWEGCGWRFARSDELTRHYRKHTGQRPFRCQ	342
+KLF3      YDGCNKVYTKSSHLKAHRRTHTGEKPYKCTWEGCTWKFARSDELTRHFRKHTGIKPFQCP	323
+KLF7      FNGCRKVYTKSSHLKAHQRTHTGEKPYKCSWEGCEWRFARSDELTRHYRKHTGAKPFKCN	282
+SP8       IPGCGKVYGKTSHLKAHLRWHTGERPFVCNWLFCGKRFTRSDELQRHLRTHTGEKRFACP	437
+SP1       IQGCGKVYGKTSHLRAHLRWHTGERPFMCTWSYCGKRFTRSDELQRHKRTHTGEKKFACP	641
+SP4       IEGCGKVYGKTSHLRAHLRWHTGERPFICNWMFCGKRFTRSDELQRHRRTHTGEKRFECP	710
+             * * : ::*:*: *   ****:*: *.:  *  :*: . :*  * * *** : : * 
+
+YY1       FDGCNKKFAQSTNLKSHILTHAKAKNNQ--------------------------------	414
+KLF1      L--CPRAFSRSDHLALHMKRHL--------------------------------------	362
+KLF3      D--CDRSFSRSDHLALHRKRHMLV------------------------------------	345
+KLF7      H--CDRCFSRSDHLALHMKRHI--------------------------------------	302
+SP8       V--CNKRFMRSDHLSKHVKTHSGGGGGGGSAGSGSGGKKGSDTDSEHSAAG------SPP	489
+SP1       E--CPKRFMRSDHLSKHIKTHQNKKGGPGVALSVGTLPLDSGAGSEGSGTATPSALITTN	699
+SP4       E--CSKRFMRSDHLSKHVKTHQNKKGGGTALAIVTSGELDSSVTEV---------LGSPR	759
+             * : * :* :*  *   *                                       
+
+YY1       --------------------------------------	414
+KLF1      --------------------------------------	362
+KLF3      --------------------------------------	345
+KLF7      --------------------------------------	302
+SP8       CHSPELLQPP----EPGHRNGLE---------------	508
+SP1       MVAMEAICPEGIARLANSGINVMQVADLQSINISGNGF	737
+SP4       IVTVAAISQDSNPATPNVSTNMEE-------------F	784
+                                                
